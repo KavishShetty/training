@@ -9,12 +9,13 @@ import "fmt"
 
 // Main function
 func main() {
+	test()
 
-	fmt.Println("!... Hello World ...!")
 }
 
-func values() {
+func test() {
 
+	fmt.Println("!... Hello World ...!")
 	fmt.Println("go" + "lang")
 
 	fmt.Println("1+1 =", 1+1)
