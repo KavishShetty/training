@@ -1,5 +1,14 @@
+// import(
+//	"fmt"
+//	)
+
+// First Go program
 package main
 
+import "fmt"
+
+// Main function
 func main() {
-	fmt.println("Hello world")
+
+	fmt.Println("!... Hello World ...!")
 }
